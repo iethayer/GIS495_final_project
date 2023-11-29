@@ -1,18 +1,5 @@
-# Leaflet Storymaps with CSVs
-Customize your Leaflet story map with linked CSV templates and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
-
-<p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="70%" />
-</p>
-
-
-## Live links (replace with your own)
-- Leaflet Map https://mdgaines.github.io/leaflet-storymap-nr491/
-
-## Create Your Own
-- Follow instructions in storymap.ipynb
-- Based on tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
+## Live links 
+- Leaflet Map https://iethayer.github.io/GIS495_final_project/
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
